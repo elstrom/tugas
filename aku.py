@@ -1,0 +1,1 @@
+print("kerang sakti")
